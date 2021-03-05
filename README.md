@@ -19,42 +19,64 @@
 ## Some Beautiful Extenstions of VSCode
  - Click on Extenstion Option -> Type extensions name is searchbar -> Install it
  *  **C/C++** Microsoft
+
  *  **Python** Microsoft
+
  *  **Java** Microsoft
+ 
  *  **Jupyter** Microsoft
+ 
  *  **AutoOpen-Markdown Preview** hnw
- *  - Writing your markdown files
+   - Writing your markdown files
+ 
  *  **Code Runner** Jun Han
     - Add run Button to your file
+
  *  **LiveServer** Ritwick Dey
     - Run Directly to Live Server
     - No need to refresh or reload page
     - Once You save File it automatically manage stuff itself
+ 
  *  **tabNine Autocomplete AI**
- *  - Ai Based extenstion which are expericed with all codes that are available on google
- *  - complete your code automatically
- *  - Gives suggestion what to next 
+    - Ai Based extenstion which are expericed with all codes that are available on google
+    - complete your code automatically
+    - Gives suggestion what to next 
+ 
  *  **Django** Bepsite Dartheney
- *  - Working with Django Framework
+    - Working with Django Framework
+ 
  *  **Prettier Formattter** Esken Peterson
- *  - Format your code or document
+    - Format your code or document
+ 
  *  **Indenticator** Sir Tori
- *  - Work like Prettier Formatter
- *  - Indent your code itself
+    - Work like Prettier Formatter
+    - Indent your code itself
+ 
  *  **Bracket pair Colorizer**
     - Bracket Highlighter with different color
+ 
  *  **Paste Json as Code** Quick Type
     - Working with any kind of APIs
+ 
  * **PHP Server** Trapfra
     - No need of any kind of JAM or MAMP etc for Basic php
     - Open php project then Right click Run as php server
+ 
  *  **ToDo Highlights** waywo
     - I need to finish this later
     - **:** FIXME:
+ 
  *  **Sublime Text KeyMap and Setting Importer**
     - Working with 3 cursors at a time etc
     - CTRL + D
  
  *  **File-Icons**
     - Set Beautiful Icons to your files
+ 
  *  **Snippets for Reacts** etc many languages specifically
+ 
+ 
+ ##  Some Hacks
+ 
+ * > ***CTRL + Shift + P, then search for Interactive playground Read it, hardly it takes 15 to 20 min a lot of beautiful things learn!***
+  
