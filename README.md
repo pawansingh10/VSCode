@@ -79,4 +79,15 @@
  ##  Some Hacks
  
  * > ***CTRL + Shift + P, then search for Interactive playground Read it, hardly it takes 15 to 20 min a lot of beautiful things learn!***
+
+ * **Snippets**
+   - Snippets simply means ***a small piece or brief extract***
+   - Code snippets are templates that make it easier to enter repeating code patterns, such as loops or conditional-statements.
+   - In Visual Studio Code, snippets appear in IntelliSense (Ctrl+Space) mixed with other suggestions, as well as in a dedicated snippet picker
+   - [Snippet Guide](https://code.visualstudio.com/api/language-extensions/snippet-guide)
   
+ * **Emmets**
+   - Emmet — the essential toolkit for web-developers.
+   - Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow:.
+   - Abbreviations are the heart of the Emmet toolkit: these special expressions are parsed in runtime and transformed into structured code block, HTML for example. ...    Abbreviations are optimised for, but not limited to, HTML and XML generation, and make writing tedious markup code a breeze.
+   - [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
